@@ -1,0 +1,2 @@
+Photos of twisty pots
+Train YOLO model to recognise them from one large photo of the desk
