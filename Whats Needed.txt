@@ -1,2 +1,5 @@
 Photos of twisty pots
-Train YOLO model to recognise them from one large photo of the desk
+Train YOLO model to recognise them individually
+Check that each pot can be identified with suitable accuracy (75%?) when given an image of the whole board
+Try to train YOLO or other algorithm to recognise the level the pot has been set to
+Repeat for sliders
